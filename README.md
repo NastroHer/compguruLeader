@@ -1,0 +1,2 @@
+# compguruLeader
+Для хакатона
